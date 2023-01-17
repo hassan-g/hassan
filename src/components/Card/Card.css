@@ -1,0 +1,40 @@
+.mostPopular-item {
+    flex: 1 25%;
+}
+.card-wrapper {
+    background-color: var(--color-dark);
+    padding: calc(var(--padding-primary) / 2);
+    border-radius: calc(var(--border-radius-primary)/2);
+    margin: calc(var(--margin-primary)/5);
+    overflow: hidden;
+}
+
+.img-wrapper {    
+    border-radius: calc(var(--border-radius-primary)/2);
+    overflow: hidden;
+}
+.img-wrapper img:hover{
+    transform: scale(2) rotate(30deg);
+    transition: 1s all;
+    margin-bottom: calc(var(--margin-primary)/2);
+
+
+}
+
+.mostpopular-item-image {
+    width: 100%;
+    border-radius: calc(var(--border-radius-primary)/2);
+    margin-bottom: calc(var(--margin-primary)/2);
+}
+
+.mostpopular-item-content {
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.mostpopular-item-title {
+    font-size: 16px;
+    line-height: 1.5rem;
+}
+
