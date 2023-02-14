@@ -1,8 +1,7 @@
-export {default as Content} from './content/Content'
-export {default as NavIem} from './Nav/NavItem'
-export {NavItemDropDown as NavItemDropDown} from './Nav/NavItem'
-export {default as SectionHeader}  from './SectionHeader/SectionHeader'
-export {default as SectionWrapper}  from './SectionWrapper/SectionWrapper'
-export {default as Card} from './Card/Card'
-export {default as GamingLibararyCard} from './GamingLibararyCard/GamingLibararyCard'
 
+export {default  as Navbar } from './Navbar';
+export {default as Home} from './Home'
+export {default as About} from './About'
+export {default as Skills} from './Skills'
+export {default as Work} from './Work'
+export {default as Contact} from './Contact'
