@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/hassan-g/hassan.git/static/css/main.7cb8f3bd.css",
+    "main.js": "/hassan-g/hassan.git/static/js/main.82fdd5dd.js",
+    "static/media/port.png": "/hassan-g/hassan.git/static/media/port.f8f58e9db8ad3d8daadc.png",
+    "static/media/bondi.png": "/hassan-g/hassan.git/static/media/bondi.cb19190c56c7bbc3fd77.png",
+    "static/media/gamming.png": "/hassan-g/hassan.git/static/media/gamming.d5866128d728172a3317.png",
+    "static/media/d.pdf": "/hassan-g/hassan.git/static/media/d.e49d214a165bc1e2ec42.pdf",
+    "static/media/dash.png": "/hassan-g/hassan.git/static/media/dash.7370f825cf8cec655cea.png",
+    "static/media/scroll.png": "/hassan-g/hassan.git/static/media/scroll.089a176368cd28b564f2.png",
+    "static/media/vscode.png": "/hassan-g/hassan.git/static/media/vscode.9bc6e588b5f2b867a8a4.png",
+    "static/media/country.png": "/hassan-g/hassan.git/static/media/country.2e9a2688d7fe41f43223.png",
+    "static/media/G.png": "/hassan-g/hassan.git/static/media/G.47542c4e6ca6960cbff7.png",
+    "static/media/react.png": "/hassan-g/hassan.git/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/github.png": "/hassan-g/hassan.git/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/hassan-g/hassan.git/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/hassan-g/hassan.git/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/hassan-g/hassan.git/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/hassan-g/hassan.git/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/hassan-g/hassan.git/index.html",
+    "main.7cb8f3bd.css.map": "/hassan-g/hassan.git/static/css/main.7cb8f3bd.css.map",
+    "main.82fdd5dd.js.map": "/hassan-g/hassan.git/static/js/main.82fdd5dd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7cb8f3bd.css",
+    "static/js/main.82fdd5dd.js"
+  ]
+}
