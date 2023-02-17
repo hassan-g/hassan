@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/hassan/static/css/main.7cb8f3bd.css",
-    "main.js": "/hassan/static/js/main.e29aca11.js",
+    "main.css": "/hassan/static/css/main.2a08bd20.css",
+    "main.js": "/hassan/static/js/main.1e344477.js",
     "static/media/port.png": "/hassan/static/media/port.f8f58e9db8ad3d8daadc.png",
     "static/media/bondi.png": "/hassan/static/media/bondi.cb19190c56c7bbc3fd77.png",
     "static/media/gamming.png": "/hassan/static/media/gamming.d5866128d728172a3317.png",
@@ -18,11 +18,11 @@
     "static/media/css.png": "/hassan/static/media/css.69a82c2d9e45c933a9cb.png",
     "static/media/javascript.png": "/hassan/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/hassan/index.html",
-    "main.7cb8f3bd.css.map": "/hassan/static/css/main.7cb8f3bd.css.map",
-    "main.e29aca11.js.map": "/hassan/static/js/main.e29aca11.js.map"
+    "main.2a08bd20.css.map": "/hassan/static/css/main.2a08bd20.css.map",
+    "main.1e344477.js.map": "/hassan/static/js/main.1e344477.js.map"
   },
   "entrypoints": [
-    "static/css/main.7cb8f3bd.css",
-    "static/js/main.e29aca11.js"
+    "static/css/main.2a08bd20.css",
+    "static/js/main.1e344477.js"
   ]
 }
